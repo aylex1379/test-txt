@@ -2,4 +2,4 @@ hello world!
 
 hello people
 
-text text text
+text
